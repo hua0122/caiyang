@@ -1,0 +1,1 @@
+a:5:{s:2:"id";s:1:"1";s:4:"name";s:4:"logo";s:6:"remark";s:6:"标志";s:7:"content";s:48:"/caiyang/uploads/img1/20170520/591fa72be76a9.png";s:9:"blocktype";s:1:"2";}
